@@ -1,0 +1,13 @@
+defaultPortal: eb-developer-sandbox-mcp
+portals:
+  - name: eb-developer-sandbox-mcp
+    portalId: 44397854
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CJaf8s6wMxIkQlNQMl8kQEwrAhcACAkCARMXAQEBAgECAwENAwoBAgMHGwMBGJ7qlRUg-vW2HSju6QwyFMiaTIuQsDFelmN8zZiGgGX_IEUCOk1CU1AyXyRATCsCQAAIEwYGHQEBAVErHAEBAQEPAQEEBQEBAQEEAQUBAQEIAQYFARAEDwEIBAEBAQEBBAEFARIJAwExAQEBBAcBQQEHWkIUdOvVAGGSxLEWUcBPcjTxed8I8xhKA25hMVIAWgBgAWgAcAB4AA
+        expiresAt: '2025-12-10T20:03:28.315Z'
+    accountType: STANDARD
+    personalAccessKey: >-
+      CiRhNzU4NGUzZi0zYzU2LTQzNmItYjM2Ny04NGQyNjAyNDZkMjgQnuqVFRj69bYdKhkABeaRgqI1lMxyCw9XIOsF4HbfJDnFFprxSgNuYTE

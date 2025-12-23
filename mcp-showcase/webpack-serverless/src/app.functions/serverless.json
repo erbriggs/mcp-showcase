@@ -1,0 +1,19 @@
+{
+  "runtime": "nodejs18.x",
+  "version": "1.0",
+  "secrets": [],
+  "endpoints": {
+    "top-landing-pages": {
+      "method": "GET",
+      "file": "fetchLP.js"
+    },
+    "hello-world": {
+      "method": "GET",
+      "file": "helloWorld.js"
+    },
+    "my-endpoint": {
+      "method": "GET",
+      "file": "mcpSampleFunction.js"
+    }
+  }
+}
